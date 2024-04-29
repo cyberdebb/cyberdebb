@@ -1,3 +1,4 @@
+<h1 align="center">hi👋, I'm Débora Castro</h1>
 <h3 align="center">acadêmica de engenharia de computação - ufsc</h3>
 
 - 🌱 I’m currently learning **React Native**
