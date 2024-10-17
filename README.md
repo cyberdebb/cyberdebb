@@ -1,7 +1,7 @@
 <h1 align="center">hi👋, I'm Débora Castro</h1>
 <h3 align="center">acadêmica de engenharia de computação - ufsc</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **PHP**
 - 📫 How to reach me **deboramoreiracastro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
