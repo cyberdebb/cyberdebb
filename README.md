@@ -1,4 +1,4 @@
-<h1>hi 👋, I'm Débora Castrp</h1>
+<h1>hi 👋, I'm Débora Castro</h1>
 <p>acadêmica de engenharia de computação - ufsc</p>
 <h2>🚀 Languages and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
