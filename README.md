@@ -1,5 +1,5 @@
 <h1>hi 👋, I'm Débora Castro</h1>
-<p>acadêmica de engenharia de computação - ufsc</p>
+<p>Computer Engineering undergraduate (9th semester) at UFSC (Federal University of Santa Catarina), currently on an academic exchange at Hochschule Ravensburg-Weingarten (RWU/HRW), Germany, studying Electrical Engineering and Information Technology</p>
 <h2>🚀 Languages and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
